@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "なくしもの / キタニタツヤ - Lost and Found / Tatsuya Kitani",
+  "base_artist": "キタニタツヤ",
+  "createdAt": "2025-12-30T15:31:28.110741Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "なくしもの",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/01_なくしもの_キタニタツヤ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "なくしもの",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/02_なくしもの_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "なくしもの",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_なくしもの_キタニタツヤ.txt"
+    }
+  ]
+}
